@@ -4,7 +4,7 @@ Installing Composer on Mac OSX Step by Step Tutorial
 In this guide, i'm installing Composer on a machine running Mac OSX
 
 1. Open a terminal and navigate to your user directory, 
-# i.e cd /User/<USER_NAME>/
+### i.e cd /User/<USER_NAME>/
 
 2. Run this command shown below to download Composer. This will create a Phar (PHP Archive) file called composer.phar:
 # curl -sS https://getcomposer.org/installer | php
