@@ -1,5 +1,5 @@
 # Installing-Composer-on-Mac-OSX
-Installing Composer on Mac OSX Step by Step Tutorial
+Installing Composer Globally on Mac OSX Step by Step Tutorial
 
 In this guide, i'm installing Composer on a machine running Mac OSX
 
